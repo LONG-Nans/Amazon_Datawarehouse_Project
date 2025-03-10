@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35825.156 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{C9674DCB-5085-4A16-B785-4C70DD1589BD}") = "Amazon_Datawarehouse_Project", "Amazon_Datawarehouse_Project.dtproj", "{594DF254-45A4-34EC-C924-6F61415B1F55}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{594DF254-45A4-34EC-C924-6F61415B1F55}.Development|Default.ActiveCfg = Development
+		{594DF254-45A4-34EC-C924-6F61415B1F55}.Development|Default.Build.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A6E41319-AABE-413A-90B2-271C45558C3A}
+	EndGlobalSection
+EndGlobal
